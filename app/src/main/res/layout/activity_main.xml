@@ -7,9 +7,6 @@
     tools:context=".MainActivity">
 
     <FrameLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:mapbox="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -17,9 +14,10 @@
             android:id="@+id/mapView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            mapbox:mapbox_cameraTargetLat="56.8498"
-            mapbox:mapbox_cameraTargetLng="53.2045 "
-            mapbox:mapbox_cameraZoom="10"/>
+            app:mapbox_cameraTargetLat="56.8498"
+            app:mapbox_cameraTargetLng="53.2045 "
+            app:mapbox_cameraZoom="10"/>
+
 
     </FrameLayout>
 

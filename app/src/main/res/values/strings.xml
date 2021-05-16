@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MapApplicationV2</string>
     <string name="mapbox_access_token">pk.eyJ1IjoiYWxkdWluMjgyIiwiYSI6ImNrbnVicGJ2ejBiZTcybnJtdXc5ZGZrMmQifQ.y7kRKQ3JFlm4vtjyODZ0LQ</string>
+    <string name="action_add_polygon">Добавить полигон</string>
+    <string name="action_add_line">Добавить линию</string>
+    <string name="action_add_point">Добавить точки</string>
+    <string name="action_choose_file">Выбор файла</string>
+    <string name="action_output_file">Выгрузить в файл</string>
+    <string name="write_done">Файл записан успешно</string>
 </resources>
