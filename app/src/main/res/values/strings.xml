@@ -6,5 +6,5 @@
     <string name="action_add_point">Добавить точки</string>
     <string name="action_choose_file">Выбор файла</string>
     <string name="action_output_file">Выгрузить в файл</string>
-    <string name="write_done">Файл записан успешно</string>
+    <string name="write_done"> успешно создан</string>
 </resources>
